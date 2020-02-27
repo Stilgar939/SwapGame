@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981804757065",
+    "firebase_url": "https://project02-7b5d8.firebaseio.com",
+    "project_id": "project02-7b5d8",
+    "storage_bucket": "project02-7b5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981804757065:android:1ba35b1b6a340e72368f98",
+        "android_client_info": {
+          "package_name": "edu.stilgar.project02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981804757065-8oiuje1d7a4i17oi7a8s9j0pak7hreo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.stilgar.project02",
+            "certificate_hash": "6e22ae930838623b78744b63bc3d9e272ff8d17e"
+          }
+        },
+        {
+          "client_id": "981804757065-8hfqo71v2ebihdoitsgjitd0rklf8p12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xk69pB6jiGT-ONryiIRI-fA6sdha3Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981804757065-8hfqo71v2ebihdoitsgjitd0rklf8p12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

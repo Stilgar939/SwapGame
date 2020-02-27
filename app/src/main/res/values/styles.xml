@@ -1,0 +1,23 @@
+<resources>
+    <style name="TemaPropio" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#38ffcd</item>
+        <item name="colorPrimaryDark">#3e7fb5</item>
+        <item name="colorAccent">#d22ee8</item>
+    </style>
+
+    <style name="TemaPropio.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="fabutton">
+       <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">bottom|end</item>
+        <item name="android:layout_margin">@dimen/fab_margin</item>
+    </style>
+</resources>
